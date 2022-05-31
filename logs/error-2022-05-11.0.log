@@ -1,0 +1,17 @@
+2022-05-11_22-21-18 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 7000 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 7000 or configure this application to listen on another port.
+
+2022-05-11_23-10-31 [main] ERROR c.p.d.e.GlobalExceptionHandler - Aadhar Number Not found
+2022-05-11_23-10-31 [main] ERROR c.p.d.e.GlobalExceptionHandler - Missing request header 'Authorization' for method parameter of type String
+2022-05-11_23-10-31 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed AuthorizationException
